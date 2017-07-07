@@ -1,4 +1,4 @@
-import {} from './stamps';
+import { defaultStamp } from './stamps';
 
 const stampTest = defaultStamp();
 console.log(stampTest);
